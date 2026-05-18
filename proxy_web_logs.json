@@ -1,0 +1,226 @@
+[
+  {
+    "click_timestamp": "2026-05-18T13:05:00Z",
+    "user_principal_name": "empleado.45@novus.com",
+    "source_ip": "192.168.1.20",
+    "destination_url": "https://soporte-it-cambiodepassword.org/update",
+    "http_status": 200,
+    "bytes_transferred": 6663
+  },
+  {
+    "click_timestamp": "2026-05-20T00:42:00Z",
+    "user_principal_name": "empleado.35@novus.com",
+    "source_ip": "192.168.1.166",
+    "destination_url": "https://login-microsoft-verify.com/auth",
+    "http_status": 200,
+    "bytes_transferred": 6492
+  },
+  {
+    "click_timestamp": "2026-05-19T08:53:00Z",
+    "user_principal_name": "empleado.20@novus.com",
+    "source_ip": "192.168.1.35",
+    "destination_url": "https://login-microsoft-verify.com/auth",
+    "http_status": 200,
+    "bytes_transferred": 4915
+  },
+  {
+    "click_timestamp": "2026-05-18T18:04:00Z",
+    "user_principal_name": "empleado.1@novus.com",
+    "source_ip": "192.168.1.150",
+    "destination_url": "https://soporte-it-cambiodepassword.org/update",
+    "http_status": 200,
+    "bytes_transferred": 3762
+  },
+  {
+    "click_timestamp": "2026-05-19T02:36:00Z",
+    "user_principal_name": "empleado.2@novus.com",
+    "source_ip": "192.168.1.173",
+    "destination_url": "https://soporte-it-cambiodepassword.org/update",
+    "http_status": 200,
+    "bytes_transferred": 6114
+  },
+  {
+    "click_timestamp": "2026-05-18T20:41:00Z",
+    "user_principal_name": "empleado.21@novus.com",
+    "source_ip": "192.168.1.168",
+    "destination_url": "https://actualizacion-banco-seguro.net/login",
+    "http_status": 200,
+    "bytes_transferred": 6699
+  },
+  {
+    "click_timestamp": "2026-05-19T06:35:00Z",
+    "user_principal_name": "empleado.42@novus.com",
+    "source_ip": "192.168.1.200",
+    "destination_url": "https://soporte-it-cambiodepassword.org/update",
+    "http_status": 200,
+    "bytes_transferred": 4414
+  },
+  {
+    "click_timestamp": "2026-05-19T13:59:00Z",
+    "user_principal_name": "empleado.44@novus.com",
+    "source_ip": "192.168.1.10",
+    "destination_url": "https://actualizacion-banco-seguro.net/login",
+    "http_status": 200,
+    "bytes_transferred": 5378
+  },
+  {
+    "click_timestamp": "2026-05-19T10:08:00Z",
+    "user_principal_name": "empleado.20@novus.com",
+    "source_ip": "192.168.1.129",
+    "destination_url": "https://actualizacion-banco-seguro.net/login",
+    "http_status": 200,
+    "bytes_transferred": 6904
+  },
+  {
+    "click_timestamp": "2026-05-18T21:35:00Z",
+    "user_principal_name": "empleado.43@novus.com",
+    "source_ip": "192.168.1.128",
+    "destination_url": "https://actualizacion-banco-seguro.net/login",
+    "http_status": 200,
+    "bytes_transferred": 2623
+  },
+  {
+    "click_timestamp": "2026-05-19T17:55:00Z",
+    "user_principal_name": "empleado.28@novus.com",
+    "source_ip": "192.168.1.47",
+    "destination_url": "https://login-microsoft-verify.com/auth",
+    "http_status": 200,
+    "bytes_transferred": 6049
+  },
+  {
+    "click_timestamp": "2026-05-18T22:05:00Z",
+    "user_principal_name": "empleado.6@novus.com",
+    "source_ip": "192.168.1.156",
+    "destination_url": "https://login-microsoft-verify.com/auth",
+    "http_status": 200,
+    "bytes_transferred": 7615
+  },
+  {
+    "click_timestamp": "2026-05-18T11:25:00Z",
+    "user_principal_name": "empleado.3@novus.com",
+    "source_ip": "192.168.1.37",
+    "destination_url": "https://soporte-it-cambiodepassword.org/update",
+    "http_status": 200,
+    "bytes_transferred": 2990
+  },
+  {
+    "click_timestamp": "2026-05-18T14:37:00Z",
+    "user_principal_name": "empleado.2@novus.com",
+    "source_ip": "192.168.1.38",
+    "destination_url": "https://soporte-it-cambiodepassword.org/update",
+    "http_status": 200,
+    "bytes_transferred": 7044
+  },
+  {
+    "click_timestamp": "2026-05-19T00:27:00Z",
+    "user_principal_name": "empleado.40@novus.com",
+    "source_ip": "192.168.1.189",
+    "destination_url": "https://soporte-it-cambiodepassword.org/update",
+    "http_status": 200,
+    "bytes_transferred": 6368
+  },
+  {
+    "click_timestamp": "2026-05-18T19:05:00Z",
+    "user_principal_name": "empleado.17@novus.com",
+    "source_ip": "192.168.1.100",
+    "destination_url": "https://login-microsoft-verify.com/auth",
+    "http_status": 200,
+    "bytes_transferred": 4789
+  },
+  {
+    "click_timestamp": "2026-05-19T06:51:00Z",
+    "user_principal_name": "empleado.33@novus.com",
+    "source_ip": "192.168.1.103",
+    "destination_url": "https://soporte-it-cambiodepassword.org/update",
+    "http_status": 200,
+    "bytes_transferred": 4537
+  },
+  {
+    "click_timestamp": "2026-05-19T13:39:00Z",
+    "user_principal_name": "empleado.37@novus.com",
+    "source_ip": "192.168.1.240",
+    "destination_url": "https://soporte-it-cambiodepassword.org/update",
+    "http_status": 200,
+    "bytes_transferred": 5568
+  },
+  {
+    "click_timestamp": "2026-05-18T20:36:00Z",
+    "user_principal_name": "empleado.50@novus.com",
+    "source_ip": "192.168.1.232",
+    "destination_url": "https://soporte-it-cambiodepassword.org/update",
+    "http_status": 200,
+    "bytes_transferred": 5166
+  },
+  {
+    "click_timestamp": "2026-05-19T11:38:00Z",
+    "user_principal_name": "empleado.35@novus.com",
+    "source_ip": "192.168.1.168",
+    "destination_url": "https://soporte-it-cambiodepassword.org/update",
+    "http_status": 200,
+    "bytes_transferred": 3557
+  },
+  {
+    "click_timestamp": "2026-05-20T03:40:00Z",
+    "user_principal_name": "empleado.13@novus.com",
+    "source_ip": "192.168.1.110",
+    "destination_url": "https://login-microsoft-verify.com/auth",
+    "http_status": 200,
+    "bytes_transferred": 2912
+  },
+  {
+    "click_timestamp": "2026-05-19T22:05:00Z",
+    "user_principal_name": "empleado.1@novus.com",
+    "source_ip": "192.168.1.126",
+    "destination_url": "https://login-microsoft-verify.com/auth",
+    "http_status": 200,
+    "bytes_transferred": 6054
+  },
+  {
+    "click_timestamp": "2026-05-18T20:27:00Z",
+    "user_principal_name": "empleado.23@novus.com",
+    "source_ip": "192.168.1.174",
+    "destination_url": "https://actualizacion-banco-seguro.net/login",
+    "http_status": 200,
+    "bytes_transferred": 4268
+  },
+  {
+    "click_timestamp": "2026-05-19T10:40:00Z",
+    "user_principal_name": "empleado.22@novus.com",
+    "source_ip": "192.168.1.100",
+    "destination_url": "https://login-microsoft-verify.com/auth",
+    "http_status": 200,
+    "bytes_transferred": 3083
+  },
+  {
+    "click_timestamp": "2026-05-20T05:26:00Z",
+    "user_principal_name": "empleado.8@novus.com",
+    "source_ip": "192.168.1.228",
+    "destination_url": "https://login-microsoft-verify.com/auth",
+    "http_status": 200,
+    "bytes_transferred": 7875
+  },
+  {
+    "click_timestamp": "2026-05-18T19:30:00Z",
+    "user_principal_name": "empleado.15@novus.com",
+    "source_ip": "192.168.1.27",
+    "destination_url": "https://soporte-it-cambiodepassword.org/update",
+    "http_status": 200,
+    "bytes_transferred": 2359
+  },
+  {
+    "click_timestamp": "2026-05-18T18:38:00Z",
+    "user_principal_name": "empleado.22@novus.com",
+    "source_ip": "192.168.1.136",
+    "destination_url": "https://soporte-it-cambiodepassword.org/update",
+    "http_status": 200,
+    "bytes_transferred": 4849
+  },
+  {
+    "click_timestamp": "2026-05-19T19:17:00Z",
+    "user_principal_name": "empleado.2@novus.com",
+    "source_ip": "192.168.1.206",
+    "destination_url": "https://actualizacion-banco-seguro.net/login",
+    "http_status": 200,
+    "bytes_transferred": 2913
+  }
+]

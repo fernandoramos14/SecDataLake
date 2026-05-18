@@ -1,0 +1,1802 @@
+[
+  {
+    "event_timestamp": "2026-05-18T22:16:00Z",
+    "mail_id": "MSG100000",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.48@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T13:24:00Z",
+    "mail_id": "MSG100001",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.8@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T08:09:00Z",
+    "mail_id": "MSG100002",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.24@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T10:56:00Z",
+    "mail_id": "MSG100003",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.28@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T03:45:00Z",
+    "mail_id": "MSG100004",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.5@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T10:45:00Z",
+    "mail_id": "MSG100005",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.33@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T19:54:00Z",
+    "mail_id": "MSG100006",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.13@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T13:20:00Z",
+    "mail_id": "MSG100007",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.2@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T16:44:00Z",
+    "mail_id": "MSG100008",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.9@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T12:53:00Z",
+    "mail_id": "MSG100009",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.45@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T20:07:00Z",
+    "mail_id": "MSG100010",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.19@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T15:21:00Z",
+    "mail_id": "MSG100011",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.49@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T01:58:00Z",
+    "mail_id": "MSG100012",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.21@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T14:30:00Z",
+    "mail_id": "MSG100013",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.31@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T20:00:00Z",
+    "mail_id": "MSG100014",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.30@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T08:04:00Z",
+    "mail_id": "MSG100015",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.33@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T13:44:00Z",
+    "mail_id": "MSG100016",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.8@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T17:27:00Z",
+    "mail_id": "MSG100017",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.43@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T06:42:00Z",
+    "mail_id": "MSG100018",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.7@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T04:26:00Z",
+    "mail_id": "MSG100019",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.46@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T22:14:00Z",
+    "mail_id": "MSG100020",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.17@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T16:47:00Z",
+    "mail_id": "MSG100021",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.18@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T00:31:00Z",
+    "mail_id": "MSG100022",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.35@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T08:50:00Z",
+    "mail_id": "MSG100023",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.20@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T01:47:00Z",
+    "mail_id": "MSG100024",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.42@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T05:25:00Z",
+    "mail_id": "MSG100025",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.7@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T12:11:00Z",
+    "mail_id": "MSG100026",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.26@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T00:56:00Z",
+    "mail_id": "MSG100027",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.19@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T14:42:00Z",
+    "mail_id": "MSG100028",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.2@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T17:53:00Z",
+    "mail_id": "MSG100029",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.1@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T10:21:00Z",
+    "mail_id": "MSG100030",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.31@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T02:22:00Z",
+    "mail_id": "MSG100031",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.2@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T01:24:00Z",
+    "mail_id": "MSG100032",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.39@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T00:57:00Z",
+    "mail_id": "MSG100033",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.9@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T11:53:00Z",
+    "mail_id": "MSG100034",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.30@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T03:02:00Z",
+    "mail_id": "MSG100035",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.6@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T15:35:00Z",
+    "mail_id": "MSG100036",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.13@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T09:25:00Z",
+    "mail_id": "MSG100037",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.25@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T06:40:00Z",
+    "mail_id": "MSG100038",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.19@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T04:49:00Z",
+    "mail_id": "MSG100039",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.13@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T00:34:00Z",
+    "mail_id": "MSG100040",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.21@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T03:54:00Z",
+    "mail_id": "MSG100041",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.34@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T00:12:00Z",
+    "mail_id": "MSG100042",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.11@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T20:17:00Z",
+    "mail_id": "MSG100043",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.42@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T17:18:00Z",
+    "mail_id": "MSG100044",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.1@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T22:06:00Z",
+    "mail_id": "MSG100045",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.32@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T05:39:00Z",
+    "mail_id": "MSG100046",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.47@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T06:29:00Z",
+    "mail_id": "MSG100047",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.1@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T16:16:00Z",
+    "mail_id": "MSG100048",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.26@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T20:38:00Z",
+    "mail_id": "MSG100049",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.21@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T06:32:00Z",
+    "mail_id": "MSG100050",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.42@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T18:12:00Z",
+    "mail_id": "MSG100051",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.26@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T00:53:00Z",
+    "mail_id": "MSG100052",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.28@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T20:05:00Z",
+    "mail_id": "MSG100053",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.16@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T19:09:00Z",
+    "mail_id": "MSG100054",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.23@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T11:50:00Z",
+    "mail_id": "MSG100055",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.6@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T09:11:00Z",
+    "mail_id": "MSG100056",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.25@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T11:08:00Z",
+    "mail_id": "MSG100057",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.29@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T06:49:00Z",
+    "mail_id": "MSG100058",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.29@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T03:42:00Z",
+    "mail_id": "MSG100059",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.36@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T19:58:00Z",
+    "mail_id": "MSG100060",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.41@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T04:20:00Z",
+    "mail_id": "MSG100061",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.34@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T18:26:00Z",
+    "mail_id": "MSG100062",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.23@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T06:29:00Z",
+    "mail_id": "MSG100063",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.49@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T09:07:00Z",
+    "mail_id": "MSG100064",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.32@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T22:55:00Z",
+    "mail_id": "MSG100065",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.47@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T17:08:00Z",
+    "mail_id": "MSG100066",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.49@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T13:49:00Z",
+    "mail_id": "MSG100067",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.44@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T18:19:00Z",
+    "mail_id": "MSG100068",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.44@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T02:09:00Z",
+    "mail_id": "MSG100069",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.3@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T13:16:00Z",
+    "mail_id": "MSG100070",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.3@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T12:50:00Z",
+    "mail_id": "MSG100071",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.22@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T17:52:00Z",
+    "mail_id": "MSG100072",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.25@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T09:54:00Z",
+    "mail_id": "MSG100073",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.20@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T10:55:00Z",
+    "mail_id": "MSG100074",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.46@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T21:32:00Z",
+    "mail_id": "MSG100075",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.43@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T08:43:00Z",
+    "mail_id": "MSG100076",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.43@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T17:43:00Z",
+    "mail_id": "MSG100077",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.28@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T07:28:00Z",
+    "mail_id": "MSG100078",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.9@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T18:57:00Z",
+    "mail_id": "MSG100079",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.21@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T10:12:00Z",
+    "mail_id": "MSG100080",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.49@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T16:44:00Z",
+    "mail_id": "MSG100081",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.2@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T14:43:00Z",
+    "mail_id": "MSG100082",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.14@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T12:26:00Z",
+    "mail_id": "MSG100083",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.28@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T00:06:00Z",
+    "mail_id": "MSG100084",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.36@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T15:09:00Z",
+    "mail_id": "MSG100085",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.45@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T05:31:00Z",
+    "mail_id": "MSG100086",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.15@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T22:04:00Z",
+    "mail_id": "MSG100087",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.11@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T04:14:00Z",
+    "mail_id": "MSG100088",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.1@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T21:50:00Z",
+    "mail_id": "MSG100089",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.6@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T11:19:00Z",
+    "mail_id": "MSG100090",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.3@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T07:41:00Z",
+    "mail_id": "MSG100091",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.12@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T14:28:00Z",
+    "mail_id": "MSG100092",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.2@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T14:55:00Z",
+    "mail_id": "MSG100093",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.21@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T17:32:00Z",
+    "mail_id": "MSG100094",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.28@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T07:45:00Z",
+    "mail_id": "MSG100095",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.1@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T00:15:00Z",
+    "mail_id": "MSG100096",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.40@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T22:32:00Z",
+    "mail_id": "MSG100097",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.15@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T06:22:00Z",
+    "mail_id": "MSG100098",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.49@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T06:37:00Z",
+    "mail_id": "MSG100099",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.12@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T12:18:00Z",
+    "mail_id": "MSG100100",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.7@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T13:24:00Z",
+    "mail_id": "MSG100101",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.9@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T02:11:00Z",
+    "mail_id": "MSG100102",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.27@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T18:56:00Z",
+    "mail_id": "MSG100103",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.17@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T03:55:00Z",
+    "mail_id": "MSG100104",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.45@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T21:41:00Z",
+    "mail_id": "MSG100105",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.8@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T17:10:00Z",
+    "mail_id": "MSG100106",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.34@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T12:14:00Z",
+    "mail_id": "MSG100107",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.11@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T06:45:00Z",
+    "mail_id": "MSG100108",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.33@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T10:36:00Z",
+    "mail_id": "MSG100109",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.22@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T10:09:00Z",
+    "mail_id": "MSG100110",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.41@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T13:48:00Z",
+    "mail_id": "MSG100111",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.17@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T01:05:00Z",
+    "mail_id": "MSG100112",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.19@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T17:58:00Z",
+    "mail_id": "MSG100113",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.34@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T18:32:00Z",
+    "mail_id": "MSG100114",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.37@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T16:25:00Z",
+    "mail_id": "MSG100115",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.35@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T14:07:00Z",
+    "mail_id": "MSG100116",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.33@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T02:59:00Z",
+    "mail_id": "MSG100117",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.33@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T17:13:00Z",
+    "mail_id": "MSG100118",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.9@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T14:11:00Z",
+    "mail_id": "MSG100119",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.34@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T01:17:00Z",
+    "mail_id": "MSG100120",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.47@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T02:47:00Z",
+    "mail_id": "MSG100121",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.11@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T19:15:00Z",
+    "mail_id": "MSG100122",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.9@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T18:19:00Z",
+    "mail_id": "MSG100123",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.44@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T17:18:00Z",
+    "mail_id": "MSG100124",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.6@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T02:37:00Z",
+    "mail_id": "MSG100125",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.3@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T19:38:00Z",
+    "mail_id": "MSG100126",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.9@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T16:42:00Z",
+    "mail_id": "MSG100127",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.34@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T13:30:00Z",
+    "mail_id": "MSG100128",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.37@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T17:13:00Z",
+    "mail_id": "MSG100129",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.42@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T20:33:00Z",
+    "mail_id": "MSG100130",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.50@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T11:35:00Z",
+    "mail_id": "MSG100131",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.35@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T08:40:00Z",
+    "mail_id": "MSG100132",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.39@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T03:32:00Z",
+    "mail_id": "MSG100133",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.13@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T10:00:00Z",
+    "mail_id": "MSG100134",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.46@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T07:01:00Z",
+    "mail_id": "MSG100135",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.28@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T16:46:00Z",
+    "mail_id": "MSG100136",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.7@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T13:49:00Z",
+    "mail_id": "MSG100137",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.46@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T19:06:00Z",
+    "mail_id": "MSG100138",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.34@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T15:51:00Z",
+    "mail_id": "MSG100139",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.50@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T21:55:00Z",
+    "mail_id": "MSG100140",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.1@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T04:12:00Z",
+    "mail_id": "MSG100141",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.8@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T23:14:00Z",
+    "mail_id": "MSG100142",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.32@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T03:22:00Z",
+    "mail_id": "MSG100143",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.21@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T15:56:00Z",
+    "mail_id": "MSG100144",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.47@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T00:19:00Z",
+    "mail_id": "MSG100145",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.5@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T21:34:00Z",
+    "mail_id": "MSG100146",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.23@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T11:44:00Z",
+    "mail_id": "MSG100147",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.17@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T13:08:00Z",
+    "mail_id": "MSG100148",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.38@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T17:05:00Z",
+    "mail_id": "MSG100149",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.7@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T16:28:00Z",
+    "mail_id": "MSG100150",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.1@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T16:44:00Z",
+    "mail_id": "MSG100151",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.44@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T01:48:00Z",
+    "mail_id": "MSG100152",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.18@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T07:50:00Z",
+    "mail_id": "MSG100153",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.40@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T20:22:00Z",
+    "mail_id": "MSG100154",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.23@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T10:31:00Z",
+    "mail_id": "MSG100155",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.20@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T22:29:00Z",
+    "mail_id": "MSG100156",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.8@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T04:32:00Z",
+    "mail_id": "MSG100157",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.16@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T23:38:00Z",
+    "mail_id": "MSG100158",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.7@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T16:54:00Z",
+    "mail_id": "MSG100159",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.16@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T12:39:00Z",
+    "mail_id": "MSG100160",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.10@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T15:38:00Z",
+    "mail_id": "MSG100161",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.4@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T09:43:00Z",
+    "mail_id": "MSG100162",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.31@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T14:59:00Z",
+    "mail_id": "MSG100163",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.38@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T00:21:00Z",
+    "mail_id": "MSG100164",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.19@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T12:38:00Z",
+    "mail_id": "MSG100165",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.43@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T23:47:00Z",
+    "mail_id": "MSG100166",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.44@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T05:41:00Z",
+    "mail_id": "MSG100167",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.25@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T18:04:00Z",
+    "mail_id": "MSG100168",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.14@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T03:33:00Z",
+    "mail_id": "MSG100169",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.34@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T19:45:00Z",
+    "mail_id": "MSG100170",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.50@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T21:45:00Z",
+    "mail_id": "MSG100171",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.23@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T18:47:00Z",
+    "mail_id": "MSG100172",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.32@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T15:52:00Z",
+    "mail_id": "MSG100173",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.21@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T10:32:00Z",
+    "mail_id": "MSG100174",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.22@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-20T05:22:00Z",
+    "mail_id": "MSG100175",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.8@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T17:46:00Z",
+    "mail_id": "MSG100176",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.22@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T00:33:00Z",
+    "mail_id": "MSG100177",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.34@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T18:40:00Z",
+    "mail_id": "MSG100178",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.29@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T23:19:00Z",
+    "mail_id": "MSG100179",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.45@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T19:15:00Z",
+    "mail_id": "MSG100180",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.15@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T21:28:00Z",
+    "mail_id": "MSG100181",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.37@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T18:34:00Z",
+    "mail_id": "MSG100182",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.22@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T21:19:00Z",
+    "mail_id": "MSG100183",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.24@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T04:46:00Z",
+    "mail_id": "MSG100184",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.30@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://soporte-it-cambiodepassword.org/update",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T01:48:00Z",
+    "mail_id": "MSG100185",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.26@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T19:15:00Z",
+    "mail_id": "MSG100186",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.2@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://actualizacion-banco-seguro.net/login",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T11:05:00Z",
+    "mail_id": "MSG100187",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.19@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T09:10:00Z",
+    "mail_id": "MSG100188",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.8@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T04:25:00Z",
+    "mail_id": "MSG100189",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.31@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-19T04:51:00Z",
+    "mail_id": "MSG100190",
+    "sender_address": "attacker@phishingnet.com",
+    "recipient_address": "empleado.21@novus.com",
+    "subject": "URGENTE: Validar credenciales corporativas",
+    "qr_extracted_url": "https://login-microsoft-verify.com/auth",
+    "attachment_name": "qr_code_access.png"
+  },
+  {
+    "event_timestamp": "2026-05-18T20:14:00Z",
+    "mail_id": "MSG100191",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.3@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T22:38:00Z",
+    "mail_id": "MSG100192",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.39@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-19T14:28:00Z",
+    "mail_id": "MSG100193",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.15@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-18T14:29:00Z",
+    "mail_id": "MSG100194",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.15@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T01:14:00Z",
+    "mail_id": "MSG100195",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.14@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T00:56:00Z",
+    "mail_id": "MSG100196",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.41@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T01:30:00Z",
+    "mail_id": "MSG100197",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.37@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://github.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T05:53:00Z",
+    "mail_id": "MSG100198",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.19@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://linkedin.com",
+    "attachment_name": "invoice.pdf"
+  },
+  {
+    "event_timestamp": "2026-05-20T06:25:00Z",
+    "mail_id": "MSG100199",
+    "sender_address": "newsletter@info.com",
+    "recipient_address": "empleado.6@novus.com",
+    "subject": "Reporte Semanal Disponible",
+    "qr_extracted_url": "https://aws.amazon.com",
+    "attachment_name": "invoice.pdf"
+  }
+]
