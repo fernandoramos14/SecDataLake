@@ -1,0 +1,1 @@
+Novus Project: Qshing Forensic detection on Microsoft Fabric
