@@ -6,7 +6,7 @@ Novus is an end-to-end DataSecOps engineering project designed to detect, correl
 
 ## 📊 Executive SOC Dashboard
 
-![Novus Dashboard](REEMPLAZA_CON_EL_NOMBRE_DE_TU_IMAGEN.png)
+![Novus Dashboard]dashboard_soc.png
 *The Power BI SOC Dashboard displays live incident metrics, human-factor vulnerability rates, malicious infrastructure distribution, and a granular forensic ledger.*
 
 ---
